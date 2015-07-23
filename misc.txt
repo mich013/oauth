@@ -1,0 +1,28 @@
+curl -u eee56833-a696-439d-a30f-5b4c01b8416e:c8acccd0-d9c2-4384-8b0d-0bc41ff0ac1c 'https://graph.api.smartthings.com/oauth/token?code=H7WfZa&grant_type=authorization_code&redirect_uri=https%3A%2F%2Fgraph.api.smartthings.com%2Foauth%2Fcallback&scope=app'
+
+curl -u eee56833-a696-439d-a30f-5b4c01b8416e:c8acccd0-d9c2-4384-8b0d-0bc41ff0ac1c 'https://graph.api.smartthings.com/oauth/token?code=H7wg7A&grant_type=authorization_code&redirect_uri=https%3A%2F%2Fgraph.api.smartthings.com%2Foauth%2Fcallback&scope=app'
+
+6c9448e8-6e77-4207-af4b-2167fd66912b
+
+https://graph.api.smartthings.com/api/smartapps/endpoints?access_token=6c9448e8-6e77-4207-af4b-2167fd66912b
+
+/api/smartapps/installations/299d8deb-8e61-4d0d-9471-c763574156d6
+
+https://graph.api.smartthings.com//api/smartapps/installations/8a2aa0cd3df1a718013df1ca2e3f000c/switches/listSwitches?access_token=6c9448e8-6e77-4207-af4b-2167fd66912b
+
+cliend_id eee56833-a696-439d-a30f-5b4c01b8416e
+secert c8acccd0-d9c2-4384-8b0d-0bc41ff0ac1c
+
+get token
+
+https://graph.api.smartthings.com/oauth/authorize?response_type=code&client_id=eee56833-a696-439d-a30f-5b4c01b8416e&scope=app&redirect_uri=https%3A%2F%2Fgraph.api.smartthings.com%2Foauth%2Fcallback
+
+Token
+
+btXQFs
+
+curl -u eee56833-a696-439d-a30f-5b4c01b8416e:c8acccd0-d9c2-4384-8b0d-0bc41ff0ac1c 'https://graph.api.smartthings.com/oauth/token?code=btXQFs&grant_type=authorization_code&redirect_uri=https%3A%2F%2Fgraph.api.smartthings.com%2Foauth%2Fcallback&scope=app'
+
+https://graph.api.smartthings.com/api/smartapps/endpoints?access_token=btXQFs
+
+api/smartapps/installations/8a2aa0cd3df1a718013df1ca2e3f000c/switches/listSwitches?access_token=
